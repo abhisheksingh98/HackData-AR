@@ -8,4 +8,4 @@ This technology can provide the user to actually experience those locations whic
 This project can be delivered using two ways :
 - This project will deliver the user a 360 degree view of any place he wants to experience.
 - Using any 3D Model of a place like Museum or any famous Hotel.
-Our Inspiration for this Project --> Doraemon :D
+Our Inspiration for this Project --> Doraemon :D :)
