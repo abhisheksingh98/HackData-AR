@@ -1,6 +1,6 @@
-# Anywhere Door AR
+# Travel AR
 
-Our Project named Anywhere Door is Augmented Reality based Project in which the basic concept is travel before we go. <br>
+Our Project named Travel AR is Augmented Reality based Project in which the basic concept is travel before we go. <br>
 We have an anywhere Door thorugh which we can go to places where we want to go without actually being there. <br>
 In this we create a portal to an another place. The user just has to select the name of the place and that place will appear inside the portal.
 We are implementing this idea using the power of ARCORE (Augmented Reality) and Unity Engine. <br>
